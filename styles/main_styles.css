@@ -1033,7 +1033,7 @@ section
 .dish_contents ul li:not(:last-child)::after
 {
 	display: inline-block;
-	content: '/';
+	content: '';
 	margin-left: 3px;
 	margin-right: 3px;
 	font-size: 14px;
